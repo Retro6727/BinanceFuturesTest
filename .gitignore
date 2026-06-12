@@ -1,0 +1,21 @@
+# Environment variables (contains API secrets)
+.env
+
+# Python virtual environment
+binance_bot/env/
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
